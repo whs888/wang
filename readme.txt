@@ -7,3 +7,5 @@
 
 
     git仓库有一个暂存区
+
+    ngauwdehuiedhushuiyhuih
